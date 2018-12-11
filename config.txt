@@ -1,0 +1,6 @@
+﻿token=NTIxNjc2ODM3ODMxNzA0NTg2.DvBjIA.vy7NFdzAaWONtCrcuWsXhiZ8m3I
+owner=345152850751389697 
+prefix=2
+game=Tpye 2help
+stayinchannel=true
+songinstatus=true
