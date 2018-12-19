@@ -1,6 +1,6 @@
 token=NTIxNjg4ODcxNjA4Nzc4NzU1.DvEucw.VFXVMz5w6JzjoGmxthZYEW8L1iU
-owner=345152850751389697 
-prefix=3
-game=Tpye 3help
+owner=250013808964141057 
+prefix=k
+game=
 stayinchannel=true
 songinstatus=true
