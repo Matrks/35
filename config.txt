@@ -1,6 +1,6 @@
 token=NTIxNjg4ODcxNjA4Nzc4NzU1.DvEucw.VFXVMz5w6JzjoGmxthZYEW8L1iU
-owner=345152850751389697
+owner=429335711267815424
 prefix=3
-game=Tpye 3help
+game=Upside Down !
 stayinchannel=true
 songinstatus=true
